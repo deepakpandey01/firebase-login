@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "512504767444",
+    "firebase_url": "https://android-login-bc7cf.firebaseio.com",
+    "project_id": "android-login-bc7cf",
+    "storage_bucket": "android-login-bc7cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512504767444:android:8649d676769afc80a46c41",
+        "android_client_info": {
+          "package_name": "com.deepak.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "512504767444-o2ojjjt61mannc6tnohf9dghi1879e6t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTJMROy80RJ2FA9DQY7Ab9wOwgaLrZU1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "512504767444-o2ojjjt61mannc6tnohf9dghi1879e6t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
